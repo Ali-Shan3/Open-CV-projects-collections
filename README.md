@@ -43,6 +43,7 @@ pip install opencv-python numpy
 Navigate to a project folder and run the script:
 python project_name.py
 
+
 📌 Notes
 Each project is self-contained with its own script.
 You can expand or combine these projects for larger applications.
